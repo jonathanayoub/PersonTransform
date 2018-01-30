@@ -78,7 +78,3 @@ The transformed data must meet the following criteria:
 -   The paths for the imported and exported JSON Person data files should be
     read from the App.config file so that they are configurable after
     deployment.
-
-To test the console application, run the included personImport.json file. The
-output should match personExport.json, below.
-
