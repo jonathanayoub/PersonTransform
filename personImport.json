@@ -1,0 +1,51 @@
+[
+  {
+    "Name": "Robina Aubree",
+    "Address": "123 S. 123rd St.",
+    "ObservationDate": "2000-01-12T15:18:21.1308619-06:00",
+    "Gender": "F",
+    "FavoriteColor": "blue"
+  },
+  {
+    "Name": "Danika Booker",
+    "Address": "4132 American Rd.",
+    "ObservationDate": "2002-12-06T15:18:21.1308619-06:00",
+    "Gender": "F",
+    "FavoriteColor": "red"
+  },
+  {
+    "Name": "Phyllis Guendolen",
+    "Address": "57380 N. Albert Dr.",
+    "ObservationDate": "1986-09-08T15:18:21.1308619-05:00",
+    "Gender": "F",
+    "FavoriteColor": "green"
+  },
+  {
+    "Name": "Di Waylon",
+    "Address": "9847 Swanson #513",
+    "ObservationDate": "1954-12-11T15:18:21.1308619-06:00",
+    "Gender": "F",
+    "FavoriteColor": "purple"
+  },
+  {
+    "Name": "Jaycob Tatianna",
+    "Address": "975 Wendalt",
+    "ObservationDate": "2012-02-14T15:18:21.1308619-06:00",
+    "Gender": "M",
+    "FavoriteColor": "pink"
+  },
+  {
+    "Name": "Tyron Hailie",
+    "Address": "4296 Rose Garden Dr.",
+    "ObservationDate": "1996-05-23T15:18:21.1308619-05:00",
+    "Gender": "M",
+    "FavoriteColor": "orange"
+  },
+  {
+    "Name": "Quentin Isaiah",
+    "Address": "74557 W. 47 Way",
+    "ObservationDate": "1940-01-07T15:18:21.1308619-06:00",
+    "Gender": "M",
+    "FavoriteColor": "blue"
+  }
+]
