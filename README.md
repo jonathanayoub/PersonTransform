@@ -1,6 +1,6 @@
 # PersonTransform
 
-This is a simple project that was built using TDD. The requirements are included below.
+This is a simple project that was built using TDD. If you are going to run the console app, make sure that the ImportPath and ExportPath in the App.config file point to locations where the json file can be read and exported. An example personImport.json is included at the root of the project. The project requirements are included below.
 
 **Summary**
 
